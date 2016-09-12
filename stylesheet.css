@@ -1,0 +1,89 @@
+body{
+  background-color:rgb(104,187,285);
+  border:white 10px dotted;
+  text-align:center;
+}
+
+#header{
+  border:white 5px outset;
+  border-radius: 10px;
+  background-color:#0B95D3;
+  color:white;
+  margin:10px;
+  font-size: 1.2em;
+}
+
+#container{
+  display:flex;
+}
+
+#left_box{
+  background-color:#0B95D3;
+  border-radius: 10px;
+  color:white;
+  border:white 5px outset;
+  margin:10px;
+}
+
+#right_box{
+  background-color:#0B95D3;
+  border-radius: 10px;
+  color:white;
+  border:white 5px outset;
+  margin:10px;
+}
+
+#experiences_box{
+  margin:10px;
+}
+
+.experiences{
+  margin:10px;
+}
+
+#studies_box{
+  margin:10px;
+}
+
+.study{
+  margin:10px;
+}
+
+#right_box h2{
+  border:white 5px outset;
+  border-radius: 10px;
+}
+
+p{
+  text-align:justify;
+  padding: 10px;
+}
+
+ul{
+  text-align:left;
+}
+
+li{
+  margin: 5px 0;
+}
+
+img{
+    border:black 1.5px outset;
+    border-radius: 10px;
+    width:250px;
+    height:200px;
+    padding: 30px; 0;
+}
+
+#footer{
+  border:white 5px outset;
+  border-radius: 10px;
+  background-color:#0B95D3;
+  color:white;
+  margin:10px;
+}
+
+#footer p{
+  text-align:center;
+  font-weight:bold;
+}
